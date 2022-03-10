@@ -1,0 +1,27 @@
+
+1 we can use data.describe() to look at the features of the data.
+2 we can use data.head() to see the first five rows.
+ we can drop the column Department and rename.
+ we can rename the wrong data type 
+like Student, and student, etudient
+Manager, manager
+BDM, bdm
+HR, hr
+
+3 Data cleansing (missing values, outliers)
+   - we should look at the missing values
+first, we find the number of missing values in each column.
+-I replaced the missing values of profession by BDM beacause these observations belong to the same client.
+-2 I replaced the missing values of Birthyear by other values in the same column.
+
+   
+    -For the outliers
+
+  -There are two children clients born in 2017 and in 2015.
+
+   I droped the 2 rows.
+
+
+3 Encode categorical data
+
+I encoded two different variables Profession and Risk.
