@@ -1,0 +1,20 @@
+Bonus:
+Contract dimension:
+
+From this visualization, we can see that most customers on Month-to-Month contract pay via electronic check method, then via mailed check method.
+
+
+Tenure and avg charges per gender:
+
+There is a  possibility is that the company regularly runs low-cost 3-month introductory promotions targeted at men to try their services. 
+
+
+Tenure and avg charges per senior:
+
+the company charge more for senior citizens compared to non-senior citizens
+
+
+link to my Tableau Public workbook:
+
+
+https://public.tableau.com/app/profile/youssef1479/viz/Lab_25BIAnalysiswithTableau/Histoire1?publish=yes
